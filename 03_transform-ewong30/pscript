@@ -1,0 +1,165 @@
+line
+0 0 0 100 0 0
+line
+100 0 0 100 100 0
+line
+100 100 0 0 100 0
+line
+0 100 0 0 0 0
+line
+0 0 100 100 0 100
+line
+100 0 100 100 100 100
+line
+100 100 100 0 100 100
+line
+0 100 100 0 0 100
+line
+0 0 0 0 0 100
+line
+0 100 0 0 100 100
+line
+100 100 0 100 100 100
+line
+100 0 0 100 0 100
+ident
+apply
+ident
+rotate
+z 20
+rotate
+x 20
+rotate
+y 20
+apply
+ident
+rotate
+y 20
+apply
+line
+0 0 0 100 0 0
+line
+100 0 0 100 100 0
+line
+100 100 0 0 100 0
+line
+0 100 0 0 0 0
+line
+0 0 100 100 0 100
+line
+100 0 100 100 100 100
+line
+100 100 100 0 100 100
+line
+0 100 100 0 0 100
+line
+0 0 0 0 0 100
+line
+0 100 0 0 100 100
+line
+100 100 0 100 100 100
+line
+100 0 0 100 0 100
+ident
+apply
+ident
+rotate
+z 20
+rotate
+x 20
+rotate
+y 20
+apply
+ident
+rotate
+y 20
+apply
+ident
+scale
+2 2 2
+apply
+line
+0 0 0 100 0 0
+line
+100 0 0 100 100 0
+line
+100 100 0 0 100 0
+line
+0 100 0 0 0 0
+line
+0 0 100 100 0 100
+line
+100 0 100 100 100 100
+line
+100 100 100 0 100 100
+line
+0 100 100 0 0 100
+line
+0 0 0 0 0 100
+line
+0 100 0 0 100 100
+line
+100 100 0 100 100 100
+line
+100 0 0 100 0 100
+ident
+apply
+ident
+rotate
+z 20
+rotate
+x 20
+rotate
+y 20
+apply
+ident
+rotate
+y 20
+apply
+scale
+4 4 4
+apply
+line
+0 0 0 100 0 0
+line
+100 0 0 100 100 0
+line
+100 100 0 0 100 0
+line
+0 100 0 0 0 0
+line
+0 0 100 100 0 100
+line
+100 0 100 100 100 100
+line
+100 100 100 0 100 100
+line
+0 100 100 0 0 100
+line
+0 0 0 0 0 100
+line
+0 100 0 0 100 100
+line
+100 100 0 100 100 100
+line
+100 0 0 100 0 100
+ident
+apply
+ident
+rotate
+z 20
+rotate
+x 20
+rotate
+y 20
+apply
+ident
+rotate
+y 20
+apply
+ident
+scale
+6 6 6
+apply
+save
+mypic.png
