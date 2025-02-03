@@ -1,0 +1,26 @@
+push
+move
+100 200 0
+rotate
+x 10
+rotate
+y 10
+box
+-200 5 200 800 70 400
+push
+move
+250 230 -150
+rotate
+x 10
+rotate
+y 10
+box
+-300 5 200 100 35 100
+box
+-150 5 200 100 35 100
+box
+0 5 200 100 35 100
+box
+150 5 200 100 35 100
+save
+my.png
