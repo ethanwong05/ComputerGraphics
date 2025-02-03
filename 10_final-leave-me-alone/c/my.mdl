@@ -1,0 +1,38 @@
+constants dull_yellow 0.3 0.8 0.2 0.3 0.8 0.2 0 0 0
+constants shiny_green 0 0 0 0.5 0.3 0.8 0.3 0.2 0 0 0 0
+constants white 1 0.7 0.8 1 0.7 0.8 1 0.7 0.8 255 255 255
+basename ggourd
+frames 24
+push
+move 100 200 0 knobberella
+rotate x 10
+rotate y 10
+box -200 5 200 800 70 400
+pop
+push
+move 250 230 -150
+rotate x 10
+rotate y 10
+box white -300 5 200 100 35 100
+box white -150 5 200 100 35 100
+box white 0 5 200 100 35 100
+box white 150 5 200 100 35 100
+pop
+push
+move 250 225 25
+scale 20 20 20
+rotate x 180
+rotate z 90
+rotate y 70
+mesh dull_yellow :gourd.obj
+pop
+push
+move 80 260 -125
+scale 20 20 20
+mesh shiny_green :lamp.obj
+pop
+push
+move 400 260 -150
+scale 20 20 20
+mesh shiny_green :lamp.obj
+save my.png
